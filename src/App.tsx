@@ -422,14 +422,14 @@ const Contact = () => {
             href="mailto:hola@pablocastro.dev" 
             className="inline-block bg-apple-gray-500 text-white px-10 py-5 rounded-full text-xl font-bold hover:bg-apple-gray-400 transition-all shadow-lg hover:shadow-xl"
           >
-            hola@pablocastro.dev
+            Contáctame por Linkedin
           </a>
           
           <div className="mt-12 flex items-center justify-center gap-8">
-            <a href="#" className="text-apple-gray-300 hover:text-blue-600 transition-colors">
+            <a href="https://github.com/pablousky4" className="text-apple-gray-300 hover:text-blue-600 transition-colors">
               <Github size={28} />
             </a>
-            <a href="#" className="text-apple-gray-300 hover:text-blue-600 transition-colors">
+            <a href="https://www.linkedin.com/in/pablocasrod/" className="text-apple-gray-300 hover:text-blue-600 transition-colors">
               <Linkedin size={28} />
             </a>
           </div>
